@@ -1,12 +1,6 @@
 module.exports = {
   "run": [
     // Step 1: Remove existing app directory
-     {
-      "method": "shell.run",
-      "params": {
-      "message": "echo 'Skipping app/ deletion - testing mode (folder preserved)'"
-     }
-    },
     {
       method: "script.start",
       params: {
@@ -38,4 +32,5 @@ module.exports = {
     }
   ]
 }
+
 
