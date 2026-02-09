@@ -38,7 +38,7 @@ Based on the paper: [LightOnOCR: A 1B End-to-End Multilingual Vision-Language Mo
 ### Via Pinokio (Recommended)
 
 1. Install [Pinokio](https://pinokio.computer/)
-2. Search for "LightOnOCR-2-1B-Demo-Pinokio" or download this repository
+2. Search for "LightOnOCR-2-1B-Pinokio" or download this repository
 3. Click "Install" to set up dependencies
 4. Click "Start" to launch the app
 5. Open the Web UI and upload an image or PDF
