@@ -1,0 +1,5 @@
+{
+  "title": "LightOnOCR-2-1B",
+  "description": "State-of-the-art 1B OCR model (83.2% on OlmOCR-Bench). Local version of the HuggingFace demo. Created by Claude Code, orchestrated by TheAwakenOne.",
+  "icon": "icon.png"
+}
