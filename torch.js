@@ -23,7 +23,7 @@ module.exports = {
         "venv": "{{args && args.venv ? args.venv : null}}",
         "path": "{{args && args.path ? args.path : '.'}}",
         "message": [
-          "uv pip install --pre torch torchvision torchaudio--index-url https://download.pytorch.org/whl/nightly/cu126 --force-reinstall --no-deps"
+          "uv pip install torch==2.7.1 torchvision==0.22.1 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu118 --force-reinstall --no-deps"
         ]
       },
       "next": null
@@ -67,4 +67,5 @@ module.exports = {
       }
     }
   ]
+
 }
